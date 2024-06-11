@@ -1,6 +1,8 @@
 
 
 # Quizive: AI Quiz Builder
+<img src="images/quizive_logo.png" alt="Quizive Logo" width="50" height="50">
+
  
 **Release Date:** February 7, 2024  
 **Website:** [Quizive](https://www.launchtip.com/apps/quizive/)  
@@ -59,7 +61,7 @@ Quizive integrates seamlessly with Shopify, allowing easy access from the Shopif
 - **Improve Conversions**: Personalized product recommendations boost the likelihood of purchases.
 - **Grow Customer Base**: Unique shopping experiences help retain existing customers and attract new ones.
 
-![Benefits](images/benefits.png)
+![Benefits](images/quiz-templates.png)
 
 ## Get Started
 
