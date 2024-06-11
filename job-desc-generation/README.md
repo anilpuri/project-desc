@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 >
 Job Description Generation(demo)
 </h1>
 <p>"Job Description Generation" redefines job description creation with its innovative features and intuitive interface. Users can effortlessly generate detailed job descriptions, specifying job duties, experience requirements, educational qualifications, and other essential details. The application offers both paragraph and bullet point formats for presenting information, catering to diverse preferences.

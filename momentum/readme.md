@@ -19,3 +19,61 @@ But Momentum's innovation doesn't stop there. At its core lies a beacon of inter
 
 In essence, Momentum stands as a testament to the power of innovation in shaping the future of events and consumer engagement. Through its seamless integration of QR code technology, robust communication features, and interactive engagement capabilities, Momentum empowers organizers to transcend the ordinary and craft extraordinary experiences that resonate with attendees long after the event concludes.
 
+## Strapi Application
+
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; gap: 6px;">
+ <img src="images/login.png" alt="Login" style="border-radius:8px;">
+<div style="width:calc(50% - 3px);">
+<img src="images/current-events.png" alt="current-events" style="width: 100%;border-radius:8px;">
+</div>
+<div style="width:calc(50% - 3px);">
+<img src="images/events.png" alt="Events" style="width: 100%;border-radius:8px;"></div>
+<div style="width:calc(50% - 3px);">
+<img src="images/create-event-1.png" alt="Create Event 1" style="width: 100%;border-radius:8px;">
+<img src="images/create-event-2.png" alt="Create Event 2" style="width: 100%;border-radius:8px;">
+</div>
+<div style="width:calc(50% - 3px);">
+<img src="images/messages.png" alt="Messages" style="width: 100%;border-radius:8px;">
+
+</div>
+<div style="width:calc(50% - 3px);">
+<img src="images/send-message-1.png" alt="send-message-1" style="width: 100%;border-radius:8px;">
+<img src="images/send-message-2.png" alt="send-message-2" style="width: 100%;border-radius:8px;">
+</div>
+<div style="width:calc(50% - 3px);display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; gap: 6px;">
+<div style="width:calc(50% - 3px);">
+<img src="images/schedule-message-1.png" alt="schedule-message-1" style="width: 100%;border-radius:8px;">
+<img src="images/schedule-message-2.png" alt="schedule-message-2" style="width: 100%;border-radius:8px;">
+</div><div style="width:calc(50% - 3px);">
+<img src="images/schedule-message-3.png" alt="schedule-message-3" style="width: 100%;border-radius:8px;">
+
+</div><img src="images/schedule-message-4.png" alt="schedule-message-4" style="width: 100%;border-radius:8px;">
+</div>
+<div style="width:calc(50% - 3px);">
+<img src="images/inbound.png" alt="inbound" style="width: 100%;border-radius:8px;">
+</div>
+<div style="width:calc(50% - 3px);">
+<img src="images/mute.png" alt="Mute" style="width: 100%;border-radius:8px;">
+<img src="images/pause.png" alt="Pause" style="width: 100%;border-radius:8px;">
+</div>
+<img src="images/participants.png" alt="participants" style="width: 100%;border-radius:8px;">
+<div style="width:calc(50% - 3px);">
+<img src="images/participant-messages-1.png" alt="participant-messages-1" style="width: 100%;border-radius:8px;">
+<img src="images/participant-messages-2.png" alt="participant-messages-2" style="width: 100%;border-radius:8px;">
+</div>
+<div style="width:calc(50% - 3px);">
+<img src="images/participant-reports.png" alt="participant-reports" style="width: 100%;border-radius:8px;">
+
+</div>
+<img src="images/winner.png" alt="winner" style="width: 100%;border-radius:8px;">
+<img src="images/update-event.png" alt="update-event" style="width: 100%;border-radius:8px;">
+</div>
+
+## Verification Application
+
+<img src="images/verification-login-desktop.png" alt="verification-login-desktop" style="width: 100%;border-radius:8px;">
+<img src="images/verification-participants-desktop.png" alt="verification-participants-desktop" style="width: 100%;border-radius:8px;">
+<img src="images/verification-participants-search-desktop.png" alt="verification-participants-search-desktop" style="width: 100%;border-radius:8px;">
+<img src="images/verification-responses-desktop.png" alt="verification-responses-desktop" style="width: 100%;border-radius:8px;">
+<img src="images/verification-scan-desktop.png" alt="verification-scan-desktop" style="width: 100%;border-radius:8px;">
+

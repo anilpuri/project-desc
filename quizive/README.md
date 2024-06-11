@@ -75,5 +75,22 @@ Quizive integrates seamlessly with Shopify, allowing easy access from the Shopif
 For more detailed information, visit the [website](https://www.launchtip.com/apps/quizive/).
 
 ---
+<img src="images/dashboard.png" alt="dashboard" style="width: 100%;border-radius:8px;">
+<img src="images/insights.png" alt="insights" style="width: 100%;border-radius:8px;">
+<img src="images/quiz-listing.png" alt="quiz-listing" style="width: 100%;border-radius:8px;">
+<img src="images/quiz-templates.png" alt="quiz-templates" style="width: 100%;border-radius:8px;">
+<img src="images/settings.png" alt="settings" style="width: 100%;border-radius:8px;">
+<img src="images/create-quiz.png" alt="create-quiz" style="width: 100%;border-radius:8px;">
+<img src="images/edit-question-quiz-1.png" alt="edit-question-quiz-1" style="width: 100%;border-radius:8px;">
+<img src="images/edit-question-quiz-2.png" alt="edit-question-quiz-2" style="width: 100%;border-radius:8px;">
+<img src="images/edit-quiz.png" alt="edit-quiz" style="width: 100%;border-radius:8px;">
+<img src="images/preview-quiz.png" alt="preview-quiz" style="width: 100%;border-radius:8px;">
+<img src="images/publish-quiz.png" alt="publish-quiz" style="width: 100%;border-radius:8px;">
+<img src="images/quiz-insight.png" alt="quiz-insight" style="width: 100%;border-radius:8px;">
+<img src="images/quiz-play.png" alt="quiz-play" style="width: 100%;border-radius:8px;">
+<img src="images/select-plan.png" alt="select-plan" style="width: 100%;border-radius:8px;">
+
+
+
 
 This README file provides a comprehensive overview of Quizive, highlighting its key features, benefits, and integration with Shopify, along with illustrative images to enhance the visual appeal and understanding of the app.

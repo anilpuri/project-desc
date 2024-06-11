@@ -16,9 +16,15 @@ USA AG streamlines B2B e-commerce, synchronizing vendor products with Shopify, m
 <p>
 Momentum is an innovative event app using QR codes for easy check-ins and communication. Administrators create unique QR codes for events, facilitating instant messaging between attendees and organizers. Flexible messaging options and scheduled interactions improve communication. Interactive challenges offer rewards for winners. Momentum transforms events, fostering connections and engagement.
 </p>
-
+<hr />
 <h3>Job description genration(demo)</h3>
 <p>
 "Job Description Generation" simplifies crafting detailed job descriptions with its intuitive interface. Users specify duties, experience, and education requirements effortlessly. The application offers spell-check for accuracy and a chat-like interface for interactive creation. Powered by trained OpenAI models, it tailors descriptions to prompts. Recruiters and HR professionals benefit from efficient, precise job description creation, attracting quality candidates.
+</p>
+
+<hr />
+<h3>Ouverture</h3>
+<p>
+
 </p>
 
