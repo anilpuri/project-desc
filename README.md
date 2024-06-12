@@ -23,7 +23,7 @@ USA AG streamlines B2B e-commerce, synchronizing vendor products with Shopify, m
 Momentum is an innovative event app using QR codes for easy check-ins and communication. Administrators create unique QR codes for events, facilitating instant messaging between attendees and organizers. Flexible messaging options and scheduled interactions improve communication. Interactive challenges offer rewards for winners. Momentum transforms events, fostering connections and engagement.
 </p>
 
-[more about project](momentum/README.md)
+[more about project](momentum/readme.md)
 
 <hr />
 <h3>Job description genration(demo)</h3>
